@@ -77,7 +77,7 @@ fun generateProviders(context: Context, persistedValues: PersistedValues) = list
     StaticSearchProvider(
         R.drawable.ic_provider_startpage,
         "Startpage",
-        "https://www.startpage.com/do/search?query=%s",
+        "https://www.startpage.com/do/mypage.pl?prfe=67d6f7efcd45238dc5da976ba89cf2c118ff0609e44ee7820c1c89932309a9bc5065027ac0acf3046b63a5146635b4c9",
         6
     ),
     CustomSearchProvider(
