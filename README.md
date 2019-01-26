@@ -34,3 +34,11 @@ To contribute check out [the available issues](https://github.com/veniosg/JustSe
     LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
     SOFTWARE.
+    
+    startpage custom string
+    
+    https://www.startpage.com/do/mypage.pl?prfh=suggestionsEEE1N1Ngeo_mapEEE1N1Nwikipedia_iaEEE1N1Nother_iaEEE1N1Ndisable_open_in_new_windowEEE0N1Ndisable_video_family_filterEEE1N1Nenable_post_methodEEE1N1Nenable_proxy_safety_suggestEEE1N1Ndisable_family_filterEEE1N1NsslEEE1N1Nlanguage_uiEEEdeutschN1NlanguageEEEdeutschN1Nwt_unitEEEcelsiusN1Nnum_of_resultsEEE20N1Nlang_homepageEEEs/blak/de/
+    
+    https://www.startpage.com/do/mypage.pl?prfe=67d6f7efcd45238dc5da976ba89cf2c118ff0609e44ee7820c1c89932309a9bc5065027ac0acf3046b63a5146635b4c9
+    
+    
